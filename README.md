@@ -1,4 +1,4 @@
-# -模拟Momongodb的小程序数据库进行本地存储
+# -模拟Mongodb的小程序数据库进行本地存储
     类型mongodb的api：增删改查 排序 限制
     暴露一个class类
     db.add({'a',1}).save()
